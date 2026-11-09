@@ -10,7 +10,6 @@ A portfolio of machine learning, deep learning, data analysis, and generative AI
 | [Handwritten Digit Recognition](./Handwritten-Digit-Recognition/README.md) | Image classification and classifier comparison |
 | [Flight Price Prediction](./Flight-Price-Prediction/README.md) | Regression models for flight fare estimation |
 | [Customer Transaction Prediction](./Customer-Transaction-Prediction/README.md) | Imbalanced binary classification and threshold tuning |
-| [Rainfall Time Series Forecasting](./Rainfall-Time-Series-Forecasting.zip) | Monthly rainfall and maximum daily rainfall forecasting |
 | [Indian Sign Language Recognition](./Indian-Sign-Language-Recognition.zip) | MobileNetV2 transfer learning for ISL image recognition |
 | [AI Technical Documentation Assistant](./AI-Technical-Documentation-Assistant.zip) | RAG chatbot with embeddings, ChromaDB, and Groq |
 
@@ -18,13 +17,12 @@ A portfolio of machine learning, deep learning, data analysis, and generative AI
 
 Download and extract each project archive to access its Jupyter notebook and project README:
 
-- [Rainfall Time Series Forecasting (PRAICP-1004)](./Rainfall-Time-Series-Forecasting.zip)
 - [Indian Sign Language Recognition (PRAICP-1000)](./Indian-Sign-Language-Recognition.zip)
 - [AI-Powered Technical Documentation & Support Assistant](./AI-Technical-Documentation-Assistant.zip)
 
-The notebook copies were cleaned for publication: execution outputs were cleared, and machine-specific dataset paths were replaced with project-relative paths. The required datasets, documentation PDFs, and API credentials are not included.
+The Rainfall Time Series Forecasting notebook is prepared, but its archive upload is pending. The published notebook copies have execution outputs cleared, and the two machine-specific dataset paths were replaced with project-relative paths. Required datasets, documentation PDFs, and API credentials are not included.
 
-## Existing repository projects
+## Repository structure
 
 ```
 ML-PROJECTS/
@@ -32,7 +30,6 @@ ML-PROJECTS/
 ├── Handwritten-Digit-Recognition/
 ├── Flight-Price-Prediction/
 ├── Customer-Transaction-Prediction/
-├── Rainfall-Time-Series-Forecasting.zip
 ├── Indian-Sign-Language-Recognition.zip
 └── AI-Technical-Documentation-Assistant.zip
 ```
